@@ -42,8 +42,10 @@ To use the Restaurant Recommendation System, follow these steps:
     Proximity - 7km from your homr
     Recommended restaurant: Restaurant C
     ```
+    ![Alt text](image-1.png)
 ## Test
 Run the test cases:
 ```bash
 python test_recommendation.py
 ```  
+![Alt text](image.png)
